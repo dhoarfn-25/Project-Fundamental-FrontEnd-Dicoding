@@ -1,0 +1,12 @@
+.jumbotron {
+ 
+    width: 100%;
+    font-size: 15px;
+    padding: 80px 40 px;
+    text-align: center;
+    color: #fd8f00f1 ;
+    background-image: repeating-linear-gradient(#000,#000);
+    background-size: cover;
+    position: relative;
+  }
+  
